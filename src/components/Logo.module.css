@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Monoton&display=swap");
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  color: white;
+  background-color: black;
+}
