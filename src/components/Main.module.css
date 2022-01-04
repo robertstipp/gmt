@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Monoton&family=Spline+Sans:wght@600&display=swap');
+
+.main {
+  font-family: "Bebas Neue", cursive;
+  font-size: 5rem;
+  color: white;
+  background-color: black;
+  margin: auto;
+  text-align: center;
+}

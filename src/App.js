@@ -1,15 +1,15 @@
 import Logo from "./components/Logo";
+import Main from "./components/Main";
+import Header from "./components/Header";
+
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <header className="header">
-        <Logo />
-      </header>
-      <main>
-        <Logo />
-      </main>
+      <Header />
+      <Main />
     </div>
   );
 }

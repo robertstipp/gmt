@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Monoton&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Spline+Sans:wght@700&display=swap");
 
-h1 {
-  font-family: "Bebas Neue", cursive;
+.logo {
+  font-family: "Spline Sans", sans-serif;
   font-size: 3rem;
   color: white;
   background-color: black;

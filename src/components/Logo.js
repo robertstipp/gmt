@@ -1,9 +1,9 @@
-import "./Logo.module.css";
+import classes from "./Logo.module.css";
 
 const Logo = () => {
   return (
     <>
-      <h1 className="logo">GMT</h1>;
+      <h1 className={classes.logo}>GMT</h1>;
     </>
   );
 };
